@@ -18,7 +18,10 @@ A detail-oriented and analytical individual with a background in freelance graph
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eman140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eman140" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eman140" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6df6f051-a258-46b3-94a5-3bb5a10b10cb" alt="eman140" height="30" width="40" /></a>
+  <a href="mailto:entesaarsharif.bootcamp@justit.co.uk" target="_blank">
+  <image src= "https://github.com/user-attachments/assets/de450eb7-3c33-45b7-a69e-c92b61bf8fc7" alt="eman140" height="30" width="40"/>
+</a>
 </p>
 
 
