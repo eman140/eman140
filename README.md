@@ -16,14 +16,14 @@ A detail-oriented and analytical individual with a background in freelance graph
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eman140&label=Profile%20views&color=0e75b6&style=flat" alt="eman140" /> </p>
 
-<h3 align="left">Let's Connect:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/eman140" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6df6f051-a258-46b3-94a5-3bb5a10b10cb" alt="eman140" height="30" width="40" /></a>
+<h3 style="text-align: left;">Let's Connect:</h3>
+<div style="display: flex; align-items: center;">
+  <a href="https://linkedin.com/in/eman140" target="blank" style="margin-right: 10px;">
+    <img src="https://github.com/user-attachments/assets/6df6f051-a258-46b3-94a5-3bb5a10b10cb" alt="LinkedIn icon" height="40" width="40" />
+  </a>
   <a href="mailto:entesaarsharif.bootcamp@justit.co.uk" target="_blank">
-  <image src= "https://github.com/user-attachments/assets/de450eb7-3c33-45b7-a69e-c92b61bf8fc7" alt="eman140" height="30" width="40"/>
-</a>
-</p>
-
-
+    <img src="https://github.com/user-attachments/assets/de450eb7-3c33-45b7-a69e-c92b61bf8fc7" alt="Email icon" height="40" width="40" />
+  </a>
+</div>
 
 
