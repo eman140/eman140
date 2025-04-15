@@ -2,7 +2,7 @@
 <h1 align="center"> Entesaar Sharif</h1>
 <h3 align="center">Data Analyst </h3>
 <h3> About Me</h3>
-A detail-oriented and analytical individual with a background in freelance graphic design, now transitioning into the world of data analysis. Passionate about leveraging data to extract meaningful insights and drive informed decisions. Eager to connect with the analytics community and contribute to impactful projects.
+A detail-oriented and analytical individual with a background in graphic design, now transitioning into the world of data analysis. Passionate about leveraging data to extract meaningful insights and drive informed decisions. Eager to connect with the analytics community and contribute to impactful projects.
 
 
 
